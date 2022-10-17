@@ -12,6 +12,8 @@ I'm in my second year at UNC-Chapel Hill in the B.S. Information Science and B.S
 
 👩‍💻 Building a varied skillset and gaining experience with different tools and softwares within UNC Computer Science + Social Good's Education team, leading to a social good project next semester
 
+🕸 Implementing JavaScript server-side and client-side scripting on my personal portolio
+
 
 <!--
 **suzannamoran/suzannamoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

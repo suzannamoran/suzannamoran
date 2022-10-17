@@ -14,7 +14,7 @@ I'm in my second year at UNC-Chapel Hill in the B.S. Information Science and B.S
 
 🕸 Implementing JavaScript server-side and client-side scripting on my personal portolio
 
-###Thanks for stopping by!
+### Thanks for stopping by!
 
 
 <!--

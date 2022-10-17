@@ -14,6 +14,8 @@ I'm in my second year at UNC-Chapel Hill in the B.S. Information Science and B.S
 
 🕸 Implementing JavaScript server-side and client-side scripting on my personal portolio
 
+###Thanks for stopping by!
+
 
 <!--
 **suzannamoran/suzannamoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

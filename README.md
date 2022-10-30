@@ -1,6 +1,6 @@
 ### Hi! 
 
-Welcome to my page! :)
+Welcome to my page!
 
 ### About Me
 

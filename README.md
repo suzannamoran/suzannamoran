@@ -8,7 +8,7 @@ I'm in my second year at UNC-Chapel Hill in the B.S. Information Science and B.S
 
 ### Current Projects
 
-🌐 Deploying Beautiful Soup and Google Drive API to create a Python program on Google Colab that web scrapes the HackNC DevPost to extract pertinent information from 35+ projects and match judges in related fields to maximize efficiency and relevance of evaluators at event with 100+ hackers
+🌐 Deploying Beautiful Soup and Google Drive API to create a Python program on Google Colab that web scrapes the HackNC DevPost to extract pertinent information from 200+ projects and match judges in related fields to maximize efficiency and relevance of evaluators at event with 100+ hackers
 
 👩‍💻 Continually adding new tools and softwares to my technological skillset within UNC Computer Science + Social Good's Education team, leading to a social good project next semester
 

@@ -4,7 +4,7 @@ Welcome to my page!
 
 ### About Me
 
-I'm a rising junior at UNC-Chapel Hill in the B.S. Information Science and B.S. Computer Science programs. I'm very interested in UX/UI design, Human-Computer Interaction, and Information Retrieval. I am passionate about early computer science education and the accessibility of STEM fields to women and other historically underrepresented groups.
+I'm a junior at UNC-Chapel Hill in the B.S. Information Science and B.S. Computer Science programs. I'm very interested in UX/UI design, Human-Computer Interaction, and Information Retrieval. I am passionate about early computer science education and the accessibility of STEM fields to women and other historically underrepresented groups.
 
 ### Current Projects
 
